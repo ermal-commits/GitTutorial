@@ -1,2 +1,2 @@
 # GitTutorial
-video yt tutorial
+video yt tutorial.
